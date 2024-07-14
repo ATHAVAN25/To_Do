@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
   },
   stretch: {
     width: 200,
-    height: 400,
+    height: 300,
    // resizeMode: 'stretch',
   },
   inputView: {
@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
     width: "70%",
     height: 45,
     marginBottom: 20,
-    alignContent:"center",
+   // alignContent:"center",
   },
   TextInput: {
     height: 50,
